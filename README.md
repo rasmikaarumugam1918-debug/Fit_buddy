@@ -1,1 +1,1 @@
-# Fit_buddy
+# Fit-buddy
